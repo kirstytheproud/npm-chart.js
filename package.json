@@ -1,0 +1,23 @@
+{
+  "name": "npm-chart",
+  "version": "1.0.0",
+  "description": "learning about using npm and chart.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirstytheproud/npm-chart.js.git"
+  },
+  "keywords": [
+    "npm",
+    "chart.js"
+  ],
+  "author": "Kirsty Proud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirstytheproud/npm-chart.js/issues"
+  },
+  "homepage": "https://github.com/kirstytheproud/npm-chart.js#readme"
+}
